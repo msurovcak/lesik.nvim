@@ -92,3 +92,5 @@ Run integration tests with:
 ```sh
 nvim --headless -u NONE --cmd 'set rtp+=.' -l tests/worktrees.lua
 ```
+
+Licensed under the [MIT License](LICENSE).
